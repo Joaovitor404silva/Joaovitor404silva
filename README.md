@@ -1,6 +1,6 @@
 ## Hi my name is Joao Vitor, im a software engineer!
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,js,react,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,js,react,html,css,aws)](https://skillicons.dev)
   
   ##
  
